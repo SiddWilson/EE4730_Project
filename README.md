@@ -1,10 +1,11 @@
-# EE4730_Project
-## Group Project for EE4730 - 3D Modeling.
+# EE4730 (3D Modeling) Group Project 
+### Members: Sean Brown, Austin Copper, Colburn Randel, & Rahsaan Nahar
 
 The purpose of this application is to capture input from monocular source, perform pose estimation, and then apply the pose to a skeleton for animation. The pre-rendering portions will be written in C++, while the rendering will be handled in C#.
 
 ## Pose Estimation: [OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openposehere)
 This project will use OpenPose, an open sourced library, for pose estimation purposes. OpenPose also has webcam integration built-in, which should be sufficient for our purposes.
+The published paper can found [here](https://arxiv.org/pdf/1812.08008.pdf).
 
 ## Skeleton/Animation Retargeting
 Yet to be determined. Code library is needed to be found that fits the parameters of the project.
