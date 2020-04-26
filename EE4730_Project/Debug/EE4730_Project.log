@@ -1,0 +1,2 @@
+﻿  main.cpp
+C:\Users\Sidd\OneDrive\LSU\Spring 2020\EE 4730 - 3D Modeling\Project\EE4730_Project\EE4730_Project\EE4730_Project\main.cpp(4,10): fatal error C1083: Cannot open include file: 'opencv2/core/core.hpp': No such file or directory
